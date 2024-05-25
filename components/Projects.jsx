@@ -15,8 +15,8 @@ const Projects = () =>{
    <h1 className='font-extrabold text-3xl 
    max-sm:text-xl 
    max-sm:font-semibold '>Projects</h1>
-   <p className='font-semibold text-xl
-    max-sm:text-sm'>Have a look at some of the rolled-out projects I'm proud of :</p>
+   <p className="font-semibold text-xl
+    max-sm:text-sm">Have a look at some of the rolled-out projects I&apos;m proud of :</p>
    </div>
 
    
