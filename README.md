@@ -1,4 +1,4 @@
-# Next.js Project README
+# Portfolio Project README
 
 Welcome to our Next.js project! This README will guide you through the setup and running of the project.
 
