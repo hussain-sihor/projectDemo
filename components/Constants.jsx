@@ -1,6 +1,6 @@
 import musicPlayer from "../public/musicPlayer.jpg"
 import snakeGame from "../public/snakeGame.jpg"
-import blend from "../public/blend.jpg"
+import blend from "../public/Blend.jpg"
 
 export const projects =[
   {title:'Blend',
